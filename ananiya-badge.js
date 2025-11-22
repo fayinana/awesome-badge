@@ -72,7 +72,7 @@ const text = document.createElement("span");
 text.style.display = "flex";
 text.style.alignItems = "center";
 text.style.gap = "4px";
-text.innerHTML = `Developed by <a href="https://edekefayinana.vercel.app/" target="_blank" rel="noopener noreferrer" style="color: #18B5AB; text-decoration: none;">Ananiya</a>`;
+text.innerHTML = `Developed by <a href="https://ananiyafekede.vercel.app/" target="_blank" rel="noopener noreferrer" style="color: #18B5AB; text-decoration: none;">Ananiya</a>`;
 badge.appendChild(text);
 
 // --- Fade-in animation ---
